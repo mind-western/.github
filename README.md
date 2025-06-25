@@ -1,2 +1,1 @@
-# .github
-MIND Platform @ Western University
+# MIND Platform @ Western University
