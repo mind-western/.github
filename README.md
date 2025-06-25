@@ -1,1 +1,0 @@
-# MIND Platform @ Western University
